@@ -2,6 +2,7 @@
 const Mustache = require('mustache');
 const fs = require('fs');
 const MUSTACHE_MAIN_DIR = './main.mustache';
+
 /**
   * DATA is the object that contains all
   * the data to be provided to Mustache

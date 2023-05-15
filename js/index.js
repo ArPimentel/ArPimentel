@@ -1,3 +1,11 @@
+fetch('main.mustache')
+  .then(response => response.text())
+  .then(template => {
+    const rendered = Mustache.render(template, { /* données à passer au modèle */ });
+    // Faites quelque chose avec le rendu du modèle, par exemple, l'insérer dans un élément de votre page
+  });
+
+
 var logoAnimation = anime.timeline({
     direction: 'alternate',
     loop: true });
