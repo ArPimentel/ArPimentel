@@ -21,6 +21,7 @@ let DATA = {
     minute: 'numeric',
     timeZoneName: 'short',
     timeZone: 'Europe/Stockholm',
+    
   }),
 };
 /**
