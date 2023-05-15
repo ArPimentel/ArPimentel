@@ -1,9 +1,9 @@
-My name is Arturo and today is Monday, 15 May, 22:32 CEST.
+My name is Arturo and today is Monday, 15 May, 23:02 CEST.
 
 <p align="center">	<!-- (optional) center align -->
     <img src="animation.html" width="1024">
 </p>
-
+<canvas class="fireworks"></canvas>
 <h1 align='center'> Hi! :wave:</h1>
 <p align='center'>
 I'm ArPimentel.
