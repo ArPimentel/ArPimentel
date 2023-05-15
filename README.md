@@ -1,9 +1,9 @@
-My name is Arturo and today is Monday, 15 May, 23:02 CEST.
+My name is Arturo and today is Monday, 15 May, 23:59 CEST.
 
 <p align="center">	<!-- (optional) center align -->
     <img src="animation.html" width="1024">
 </p>
-<canvas class="fireworks"></canvas>
+
 <h1 align='center'> Hi! :wave:</h1>
 <p align='center'>
 I'm ArPimentel.
@@ -12,3 +12,7 @@ I'm ArPimentel.
 
 <h1 align='center'><i>Be cool!</i></h1>
 
+<video controls>
+  <source src="assets/prueba-2.avi" type="video/avi">
+  Votre navigateur ne prend pas en charge la lecture de vidéos au format avi.
+</video>
