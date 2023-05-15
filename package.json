@@ -1,0 +1,25 @@
+{
+  "name": "arpimentel",
+  "version": "1.0.0",
+  "description": "profil-github",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ArPimentel/ArPimentel.git"
+  },
+  "keywords": [
+    "\u001b[A\u001b[B\u001a\u001a\u001a"
+  ],
+  "author": "arturopimentel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArPimentel/ArPimentel/issues"
+  },
+  "homepage": "https://github.com/ArPimentel/ArPimentel#readme",
+  "dependencies": {
+    "mustache": "^4.2.0"
+  }
+}
