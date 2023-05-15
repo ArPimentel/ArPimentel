@@ -1,6 +1,6 @@
-My name is Arturo and today is Tuesday, 16 May, 00:43 CEST.
+My name is Arturo and today is Tuesday, 16 May, 00:53 CEST.
 
-![animation](https://github.com/ArPimentel/ArPimentel/blob/568c48f353f30718fccead6ca6601a9937cdeb31/animation.html)
+
 
 
 <h1 align='center'> Hi! :wave:</h1>
@@ -12,6 +12,8 @@ I'm ArPimentel.
 <h1 align='center'><i>Be cool!</i></h1>
 
 
-![colibri](https://github.com/ArPimentel/ArPimentel/blob/066aab3d13bdd5fa5d2f2aec7525ae8518226367/assets/colibri_AdobeExpress.gif)
-
+![colibri](https://github.com/ArPimentel/ArPimentel/blob/707cb6385bc165974fa367b8ed9dfa20c36395ff/assets/animation.gif)
+<p align='center'>
+If you want to see the repertoire of this animation come here <a href="https://github.com/ArPimentel/animation.git">Github</a>.</p>
+</p>
 
