@@ -1,4 +1,4 @@
-My name is Arturo and today is Tuesday, 16 May, 00:55 CEST.
+My name is Arturo and today is Tuesday, 16 May, 01:01 CEST.
 
 
 
@@ -11,9 +11,10 @@ I'm ArPimentel.
 
 <h1 align='center'><i>Be cool!</i></h1>
 
-
+<div align="center">
 ![name](https://github.com/ArPimentel/ArPimentel/blob/4f5a73cfc3abc7c12873cb97f9b184b8189bc4fd/assets/animation.gif)
+</div>
 <p align='center'>
-If you want to see the repertoire of this animation come here <a href="https://github.com/ArPimentel/animation.git">Github</a>.</p>
+If you want to see the repertoire of this animation come here 👉 <a href="https://github.com/ArPimentel/animation.git">Github</a>.</p>
 </p>
 
