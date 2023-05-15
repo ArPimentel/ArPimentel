@@ -1,5 +1,5 @@
-My name is Arturo and today is Monday, 15 May, 19:59 CEST.
-[![Social banner for jh3y](https://github.com/ArPimentel/animation.git)]
+My name is Arturo and today is Monday, 15 May, 20:06 CEST.
+[![Social banner for jh3y](https://github.com/ArPimentel/animation.git)](https://github.com/)
 <h1 align='center'> Hi! :wave:</h1>
 <p align='center'>
 I'm Jhey.
