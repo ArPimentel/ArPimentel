@@ -1,4 +1,19 @@
 // index.js
+
+fetch('main.mustache')
+  .then(response => response.text())
+  .then(template => {
+    const data = {
+      // Exemple de données à passer au modèle
+      titre: 'logoAnimation',
+      couleur: 'bleu',
+      duree: 5
+    };
+    
+    const rendered = Mustache.render(template, data);
+    // Faites quelque chose avec le rendu du modèle, par exemple, l'insérer dans un élément de votre page
+  });
+
 const Mustache = require('mustache');
 const fs = require('fs');
 const MUSTACHE_MAIN_DIR = './main.mustache';
