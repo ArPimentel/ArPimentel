@@ -1,4 +1,4 @@
-My name is Arturo and today is Tuesday, 16 May, 00:02 CEST.
+My name is Arturo and today is Tuesday, 16 May, 00:04 CEST.
 
 <p align="center">	<!-- (optional) center align -->
     <img src="animation.html" width="1024">
@@ -13,7 +13,7 @@ I'm ArPimentel.
 <h1 align='center'><i>Be cool!</i></h1>
 
 <video width="640" height="360" controls>
-  <source src="assets/prueba-2.avi" type="video/avi">
+  <source src="assets/colibri.mp4" type="video/mp4">
   Votre navigateur ne prend pas en charge la lecture de vidéos au format avi.
 </video>
 
