@@ -4,11 +4,13 @@
     If you want to see the repertoire of this animation come here 👉 <a href="https://github.com/ArPimentel/animation.git">Github</a>
   </div>
 
-
+<table>
+<tr>
+<td width="50%" valign="top">
 
 <h2 align='center'> Hey! Nice to see you. :wave:</h2>
 <p align='center'>
-I'm <span style="color: red;">Arturo Pimentel, Fullstack developer. I love arepas and dancing salsa</span></br> today is <span style="color: blue;">Tuesday, 16 May, 03:23 CEST</span>.
+I'm <span style="color: red;">Arturo Pimentel, Fullstack developer. I love arepas and dancing salsa</span></br> today is <span style="color: blue;">Tuesday, 16 May, 03:30 CEST</span>.
 </p>
 
 
@@ -16,7 +18,7 @@ I'm <span style="color: red;">Arturo Pimentel, Fullstack developer. I love arepa
 
 <h2 align='center'><i>Just be cool!</i></h2>
 
-
+</td>
 
 
 ### :space_invader: &nbsp;About Me
