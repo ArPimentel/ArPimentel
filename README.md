@@ -1,11 +1,10 @@
 <div align='center'>
   ![Arturo GitHub Banner](https://github.com/ArPimentel/ArPimentel/blob/7651b58f71c4dbe4d314de86c876798a14e59f97/assets/animation.gif)
 </div>
-
-<div align='center 'a href="https://github.com/ArPimentel/animation.git">Github</a>
+<a href="https://github.com/ArPimentel/animation.git">Github</a>
 <h2 align='center'> Hey! Nice to see you. :wave:</h2>
 <p align='center'>
-I'm Arturo Pimentel, . I love arepas and dancing salsa</br> today isTuesday, 16 May, 14:49 CEST.
+I'm Arturo Pimentel, . I love arepas and dancing salsa</br> today isTuesday, 16 May, 14:50 CEST.
 </p>
 
 <p align='center'>For enquiries, reach out pimentel.arturo@gmail.com or over on <a href="https://www.linkedin.com/in/arturo-pimentel-developpeur-web/">Linkedin</a>.</p>
