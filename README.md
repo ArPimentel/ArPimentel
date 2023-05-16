@@ -8,7 +8,7 @@
 
 <h2 align='center'> Hey! Nice to see you. :wave:</h2>
 <p align='center'>
-I'm <span style="color: red;">Arturo Pimentel, Fullstack developer. I love arepas and dancing salsa</span></br> today is <span style="color: blue;">Tuesday, 16 May, 03:35 CEST</span>.
+I'm <span style="color: red;">Arturo Pimentel, Fullstack developer. I love arepas and dancing salsa</span></br> today is <span style="color: blue;">Tuesday, 16 May, 03:37 CEST</span>.
 </p>
 
 
@@ -17,7 +17,8 @@ I'm <span style="color: red;">Arturo Pimentel, Fullstack developer. I love arepa
 <h2 align='center'><i>Just be cool!</i></h2>
 
 </td>
-
+</tr>
+</table>
 
 ### :space_invader: &nbsp;About Me
 
