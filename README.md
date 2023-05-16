@@ -1,14 +1,13 @@
 <div align="center">
 <img src= "https://github.com/ArPimentel/ArPimentel/blob/4f5a73cfc3abc7c12873cb97f9b184b8189bc4fd/assets/animation.gif" alt="animation"/>
 </div>
-<p align='center'>
+
 <h2 align='center'> Hey! Nice to see you. :wave:</h2>
-My name is <span style="color: red;">Arturo</span> and today is <span style="color: blue;">Tuesday, 16 May, 02:12 CEST</span>.
+<p align='center'>
+I'm is <span style="color: red;">Arturo Pimentel, Fullstack developer. I love arepas and dancing salsa</span> and today is <span style="color: blue;">Tuesday, 16 May, 02:17 CEST</span>.
 </p>
 
-<p align='center'>
-I'm Arturo Pimentel, Fullstack developer. I love arepas and dancing salsa
-</p>
+
 <p align='center'>For enquiries, reach out pimentel.arturo@gmail.com or over on <a href="https://www.linkedin.com/in/arturo-pimentel-developpeur-web/">Linkedin</a>.</p>
 
 <h2 align='center'><i>Just be cool!</i></h2>
