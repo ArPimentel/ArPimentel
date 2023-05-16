@@ -1,14 +1,14 @@
 <table align="center">
 <tr>
-<td width="30%" valign="top">
+<td width="30%" valign="top" color="red">
   <img src="https://github.com/ArPimentel/ArPimentel/blob/4f5a73cfc3abc7c12873cb97f9b184b8189bc4fd/assets/animation.gif" alt="animation" ></br>
-    If you want to see the repertoire of this animation come here 👉 <a href="https://github.com/ArPimentel/animation.git">Github</a>
+   <h2 align='center'> If you want to see the repertoire of this animation come here 👉 <a href="https://github.com/ArPimentel/animation.git">Github</a></h2>
 
 
 
 <h2 align='center'> Hey! Nice to see you. :wave:</h2>
 <p align='center'>
-I'm <span style="color: red;">Arturo Pimentel, Fullstack developer. I love arepas and dancing salsa</span></br> today is <span style="color: blue;">Tuesday, 16 May, 03:37 CEST</span>.
+I'm <span style="color: red;">Arturo Pimentel, Fullstack developer. I love arepas and dancing salsa</span></br> today is <span style="color: blue;">Tuesday, 16 May, 04:11 CEST</span>.
 </p>
 
 
@@ -19,6 +19,7 @@ I'm <span style="color: red;">Arturo Pimentel, Fullstack developer. I love arepa
 </td>
 </tr>
 </table>
+
 
 ### :space_invader: &nbsp;About Me
 
