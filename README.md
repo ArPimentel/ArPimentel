@@ -3,13 +3,13 @@
 <tr>
 <td >
 
-  <img src="https://github.com/ArPimentel/ArPimentel/blob/4f5a73cfc3abc7c12873cb97f9b184b8189bc4fd/assets/animation.gif" alt="animation"></br>
+  ![Arturo GitHub Banner](https://github.com/ArPimentel/ArPimentel/blob/4f5a73cfc3abc7c12873cb97f9b184b8189bc4fd/assets/animation.gif)
 
    <p align='center'> If you want to see the repertory of this animation, click here.👉 <a href="https://github.com/ArPimentel/animation.git">Github</a></p>
 
 <h2 align='center'> Hey! Nice to see you. :wave:</h2>
 <p align='center'>
-I'm Arturo Pimentel, Fullstack developer. I love arepas and dancing salsa</br> today isTuesday, 16 May, 10:19 CEST.
+I'm Arturo Pimentel, Fullstack developer. I love arepas and dancing salsa</br> today isTuesday, 16 May, 10:49 CEST.
 </p>
 
 <p align='center'>For enquiries, reach out pimentel.arturo@gmail.com or over on <a href="https://www.linkedin.com/in/arturo-pimentel-developpeur-web/">Linkedin</a>.</p>
