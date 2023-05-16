@@ -1,7 +1,5 @@
 // index.js
 
-
-
 const Mustache = require('mustache');
 const fs = require('fs');
 const MUSTACHE_MAIN_DIR = './main.mustache';
@@ -34,7 +32,6 @@ function generateReadMe() {
     if (err) throw err;
     const output = Mustache.render(data.toString(), DATA);
     fs.writeFileSync('README.md', output);
-    fs.writeFileSync('README_fr.md', output);
   });
 }
 generateReadMe();
