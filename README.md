@@ -21,7 +21,7 @@ If you want to see the repertoire of this animation come here 👉 <a href="http
 
 <h2 align='center'> Hey! Nice to see you. :wave:</h2>
 <p align='center'>
-I'm <span style="color: red;">Arturo Pimentel, Fullstack developer. I love arepas and dancing salsa</span></br> today is <span style="color: blue;">Tuesday, 16 May, 02:46 CEST</span>.
+I'm <span style="color: red;">Arturo Pimentel, Fullstack developer. I love arepas and dancing salsa</span></br> today is <span style="color: blue;">Tuesday, 16 May, 02:49 CEST</span>.
 </p>
 
 
@@ -102,6 +102,12 @@ I'm <span style="color: red;">Arturo Pimentel, Fullstack developer. I love arepa
     </p>
 </details>
 
+
+
+
+  </div>
+</div>
+<style>
 .gif-container {
   position: relative;
   width: 500px; /* Ajustez la largeur selon vos besoins */
@@ -119,7 +125,4 @@ I'm <span style="color: red;">Arturo Pimentel, Fullstack developer. I love arepa
   height: 100%;
   /* Styles supplémentaires pour votre contenu */
 }
-
-
-  </div>
-</div>
+</style>
