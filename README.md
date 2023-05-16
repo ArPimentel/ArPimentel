@@ -1,12 +1,13 @@
 
-  ![Arturo GitHub Banner]( https://github.com/ArPimentel/ArPimentel/blob/8bafa18edcdddc7fab62e369b8b6066f2cc1eff8/assets/animation.gif)
 
- 
+<p align="center">
+<img alt="loficity" width="100%" src="https://github.com/ArPimentel/ArPimentel/blob/8bafa18edcdddc7fab62e369b8b6066f2cc1eff8/assets/animation.gif"</img>
+</p>
 
 <a href="https://github.com/ArPimentel/animation.git">Github</a>
 <h2 align='center'> Hey! Nice to see you. :wave:</h2>
 <p align='center'>
-I'm Arturo Pimentel, . I love arepas and dancing salsa</br> today isTuesday, 16 May, 15:35 CEST.
+I'm Arturo Pimentel, . I love arepas and dancing salsa</br> today isTuesday, 16 May, 15:46 CEST.
 </p>
 
 <p align='center'>For enquiries, reach out pimentel.arturo@gmail.com or over on <a href="https://www.linkedin.com/in/arturo-pimentel-developpeur-web/">Linkedin</a>.</p>
