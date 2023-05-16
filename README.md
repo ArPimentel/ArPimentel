@@ -1,10 +1,8 @@
-<div class="gif-container">
-  <div class="content">
 
 <div align="center">
-<span style=background-image: src=></span>
+<span style=position: absolute, opacity:0.7>
 <img src= "https://github.com/ArPimentel/ArPimentel/blob/4f5a73cfc3abc7c12873cb97f9b184b8189bc4fd/assets/animation.gif" alt="animation"/>
-
+</span>
 <div style="position: relative; text-align: center;">
   <img src="https://github.com/ArPimentel/ArPimentel/blob/4f5a73cfc3abc7c12873cb97f9b184b8189bc4fd/assets/animation.gif" alt="animation" >
   <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: white; font-size: 20px; background-color: black; padding: 10px;">
@@ -21,7 +19,7 @@ If you want to see the repertoire of this animation come here 👉 <a href="http
 
 <h2 align='center'> Hey! Nice to see you. :wave:</h2>
 <p align='center'>
-I'm <span style="color: red;">Arturo Pimentel, Fullstack developer. I love arepas and dancing salsa</span></br> today is <span style="color: blue;">Tuesday, 16 May, 02:49 CEST</span>.
+I'm <span style="color: red;">Arturo Pimentel, Fullstack developer. I love arepas and dancing salsa</span></br> today is <span style="color: blue;">Tuesday, 16 May, 02:53 CEST</span>.
 </p>
 
 
@@ -103,26 +101,3 @@ I'm <span style="color: red;">Arturo Pimentel, Fullstack developer. I love arepa
 </details>
 
 
-
-
-  </div>
-</div>
-<style>
-.gif-container {
-  position: relative;
-  width: 500px; /* Ajustez la largeur selon vos besoins */
-  height: 300px; /* Ajustez la hauteur selon vos besoins */
-  background: url('https://github.com/ArPimentel/ArPimentel/blob/4f5a73cfc3abc7c12873cb97f9b184b8189bc4fd/assets/animation.gif') center center no-repeat;
-  background-size: cover;
-  opacity: 0.7; /* Ajustez l'opacité selon vos besoins */
-}
-
-.content {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  /* Styles supplémentaires pour votre contenu */
-}
-</style>
