@@ -1,6 +1,11 @@
 <div align="center">
 <span style=background-color: black></span>
 <img src= "https://github.com/ArPimentel/ArPimentel/blob/4f5a73cfc3abc7c12873cb97f9b184b8189bc4fd/assets/animation.gif" alt="animation"/>
+<figure>
+  <img src="https://github.com/ArPimentel/ArPimentel/blob/4f5a73cfc3abc7c12873cb97f9b184b8189bc4fd/assets/animation.gif" alt="GIF">
+  <figcaption>If you want to see the repertoire of this animation come here 👉 <a href="https://github.com/ArPimentel/animation.git">Github</a></figcaption>
+</figure>
+
 <h4 align='center'>
 If you want to see the repertoire of this animation come here 👉 <a href="https://github.com/ArPimentel/animation.git">Github</a>.</p>
 </h4>
@@ -9,7 +14,7 @@ If you want to see the repertoire of this animation come here 👉 <a href="http
 
 <h2 align='center'> Hey! Nice to see you. :wave:</h2>
 <p align='center'>
-I'm <span style="color: red;">Arturo Pimentel, Fullstack developer. I love arepas and dancing salsa</span></br> today is <span style="color: blue;">Tuesday, 16 May, 02:25 CEST</span>.
+I'm <span style="color: red;">Arturo Pimentel, Fullstack developer. I love arepas and dancing salsa</span></br> today is <span style="color: blue;">Tuesday, 16 May, 02:30 CEST</span>.
 </p>
 
 
