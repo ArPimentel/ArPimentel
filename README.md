@@ -9,7 +9,7 @@
 
 <h2 align='center'> Hey! Nice to see you. :wave:</h2>
 <p align='center'>
-I'm Arturo Pimentel, Fullstack developer. I love arepas and dancing salsa</br> today isTuesday, 16 May, 10:16 CEST.
+I'm Arturo Pimentel, Fullstack developer. I love arepas and dancing salsa</br> today isTuesday, 16 May, 10:19 CEST.
 </p>
 
 <p align='center'>For enquiries, reach out pimentel.arturo@gmail.com or over on <a href="https://www.linkedin.com/in/arturo-pimentel-developpeur-web/">Linkedin</a>.</p>
@@ -65,7 +65,7 @@ I'm Arturo Pimentel, Fullstack developer. I love arepas and dancing salsa</br> t
   <summary><b>:brain: &nbsp;Other knowledge, always learning</b></summary>
   <br/>
 
-![Swift]https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)&nbsp;
 ![NodeJS](https://img.shields.io/badge/NODEJS-339933.svg?&style=flat&logo=node.js&logoColor=white)&nbsp;\
 ![Oracle](https://img.shields.io/badge/ORACLE-F80000.svg?&style=flat&logo=oracle&logoColor=white)&nbsp;\
 ![PHOTOSHOP](https://img.shields.io/badge/PHOTOSHOP-31A8FF.svg?&style=flat&logo=adobe-photoshop&logoColor=white)&nbsp;
@@ -73,8 +73,8 @@ I'm Arturo Pimentel, Fullstack developer. I love arepas and dancing salsa</br> t
 ![Blockchain](https://img.shields.io/badge/BLOCKCHAIN-121D33.svg?&style=flat&logo=blockchain-dot-com&logoColor=white)&nbsp;
 ![Bitcoin](https://img.shields.io/badge/BITCOIN-0769AD.svg?&style=flat&logo=bitcoin&logoColor=black)&nbsp;
 ![Ethereum](https://img.shields.io/badge/ETHEREUM-3C3C3D.svg?&style=flat&logo=ethereum&logoColor=white)&nbsp;
-![Figma]https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white
-![Blender]https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
+![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)&nbsp;
 
 </details>
 
