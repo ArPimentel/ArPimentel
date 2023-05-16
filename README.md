@@ -1,14 +1,14 @@
-<table align="center">
+<table align='center'>
 <tr>
-<td width="50%" valign="top">
-  <img src="https://github.com/ArPimentel/ArPimentel/blob/4f5a73cfc3abc7c12873cb97f9b184b8189bc4fd/assets/animation.gif" alt="animation" align="center"></br>
+<td width='50%' valign='top'>
+  <img align='center' src="https://github.com/ArPimentel/ArPimentel/blob/4f5a73cfc3abc7c12873cb97f9b184b8189bc4fd/assets/animation.gif" alt="animation"></br>
    <h2 align='center'> If you want to see the repertoire of this animation come here 👉 <a href="https://github.com/ArPimentel/animation.git">Github</a></h2>
 
 
 
 <h2 align='center'> Hey! Nice to see you. :wave:</h2>
 <p align='center'>
-I'm Arturo Pimentel, Fullstack developer. I love arepas and dancing salsa</span></br> today isTuesday, 16 May, 04:16 CEST.
+I'm Arturo Pimentel, Fullstack developer. I love arepas and dancing salsa</span></br> today isTuesday, 16 May, 04:17 CEST.
 </p>
 
 
