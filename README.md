@@ -1,14 +1,15 @@
+<div align='center'>
 <table width='50%' valign='top'>
 <tr>
 <td >
-<div align='center'>
+
   <img src="https://github.com/ArPimentel/ArPimentel/blob/4f5a73cfc3abc7c12873cb97f9b184b8189bc4fd/assets/animation.gif" alt="animation"></br>
-</div>
+
    <p align='center'> If you want to see the repertoire of this animation come here 👉 <a href="https://github.com/ArPimentel/animation.git">Github</a></p>
 
 <h2 align='center'> Hey! Nice to see you. :wave:</h2>
 <p align='center'>
-I'm Arturo Pimentel, Fullstack developer. I love arepas and dancing salsa</br> today isTuesday, 16 May, 09:47 CEST.
+I'm Arturo Pimentel, Fullstack developer. I love arepas and dancing salsa</br> today isTuesday, 16 May, 09:48 CEST.
 </p>
 
 <p align='center'>For enquiries, reach out pimentel.arturo@gmail.com or over on <a href="https://www.linkedin.com/in/arturo-pimentel-developpeur-web/">Linkedin</a>.</p>
@@ -16,7 +17,7 @@ I'm Arturo Pimentel, Fullstack developer. I love arepas and dancing salsa</br> t
 </td>
 </tr>
 </table>
-
+</div>
 
 ### :space_invader: &nbsp;About Me
 
