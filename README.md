@@ -1,5 +1,5 @@
 <div align='center'>
-<table width='50%' valign='top'>
+<table width="100%" valign="top">
 <tr>
 <td >
 
@@ -9,7 +9,7 @@
 
 <h2 align='center'> Hey! Nice to see you. :wave:</h2>
 <p align='center'>
-I'm Arturo Pimentel, Fullstack developer. I love arepas and dancing salsa</br> today isTuesday, 16 May, 09:48 CEST.
+I'm Arturo Pimentel, Fullstack developer. I love arepas and dancing salsa</br> today isTuesday, 16 May, 09:49 CEST.
 </p>
 
 <p align='center'>For enquiries, reach out pimentel.arturo@gmail.com or over on <a href="https://www.linkedin.com/in/arturo-pimentel-developpeur-web/">Linkedin</a>.</p>
