@@ -1,25 +1,14 @@
 
 <div align="center">
-<span style="background-color: red;">
-<img src= "https://github.com/ArPimentel/ArPimentel/blob/4f5a73cfc3abc7c12873cb97f9b184b8189bc4fd/assets/animation.gif" alt="animation"/>
-</span>
-<div style="position: relative; text-align: center;">
   <img src="https://github.com/ArPimentel/ArPimentel/blob/4f5a73cfc3abc7c12873cb97f9b184b8189bc4fd/assets/animation.gif" alt="animation" >
-  <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: white; font-size: 20px; background-color: black; padding: 10px;">
     If you want to see the repertoire of this animation come here 👉 <a href="https://github.com/ArPimentel/animation.git">Github</a>
   </div>
-</div>
 
 
-<h4 align='center'>
-If you want to see the repertoire of this animation come here 👉 <a href="https://github.com/ArPimentel/animation.git">Github</a>.</p>
-</h4>
-
-</div>
 
 <h2 align='center'> Hey! Nice to see you. :wave:</h2>
 <p align='center'>
-I'm <span style="color: red;">Arturo Pimentel, Fullstack developer. I love arepas and dancing salsa</span></br> today is <span style="color: blue;">Tuesday, 16 May, 02:55 CEST</span>.
+I'm <span style="color: red;">Arturo Pimentel, Fullstack developer. I love arepas and dancing salsa</span></br> today is <span style="color: blue;">Tuesday, 16 May, 02:56 CEST</span>.
 </p>
 
 
