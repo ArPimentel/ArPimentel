@@ -4,12 +4,11 @@
     If you want to see the repertoire of this animation come here 👉 <a href="https://github.com/ArPimentel/animation.git">Github</a>
   </div>
 
-DATA.style.color = "red";
-date.style.backgroundColor = "blue";
+
 
 <h2 align='center'> Hey! Nice to see you. :wave:</h2>
 <p align='center'>
-I'm <span style="color: red;">Arturo Pimentel, Fullstack developer. I love arepas and dancing salsa</span></br> today is <span style="color: blue;">Tuesday, 16 May, 03:18 CEST</span>.
+I'm <span style="color: red;">, Fullstack developer. I love arepas and dancing salsa</span></br> today is <span style="color: blue;">Tuesday, 16 May, 03:21 CEST</span>.
 </p>
 
 
