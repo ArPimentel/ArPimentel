@@ -1,10 +1,14 @@
 <div align="center">
 <span style=background-color: black></span>
 <img src= "https://github.com/ArPimentel/ArPimentel/blob/4f5a73cfc3abc7c12873cb97f9b184b8189bc4fd/assets/animation.gif" alt="animation"/>
-<figure>
-  <img src="https://github.com/ArPimentel/ArPimentel/blob/4f5a73cfc3abc7c12873cb97f9b184b8189bc4fd/assets/animation.gif" alt="GIF">
-  <figcaption>If you want to see the repertoire of this animation come here 👉 </figcaption>
-</figure>
+
+<div style="position: relative; text-align: center;">
+  <img src="https://github.com/ArPimentel/ArPimentel/blob/4f5a73cfc3abc7c12873cb97f9b184b8189bc4fd/assets/animation.gif" alt="animation" >
+  <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: white; font-size: 20px; background-color: black; padding: 10px;">
+    If you want to see the repertoire of this animation come here 👉 <a href="https://github.com/ArPimentel/animation.git">Github</a>.</p>
+  </div>
+</div>
+
 
 <h4 align='center'>
 If you want to see the repertoire of this animation come here 👉 <a href="https://github.com/ArPimentel/animation.git">Github</a>.</p>
@@ -14,7 +18,7 @@ If you want to see the repertoire of this animation come here 👉 <a href="http
 
 <h2 align='center'> Hey! Nice to see you. :wave:</h2>
 <p align='center'>
-I'm <span style="color: red;">Arturo Pimentel, Fullstack developer. I love arepas and dancing salsa</span></br> today is <span style="color: blue;">Tuesday, 16 May, 02:35 CEST</span>.
+I'm <span style="color: red;">Arturo Pimentel, Fullstack developer. I love arepas and dancing salsa</span></br> today is <span style="color: blue;">Tuesday, 16 May, 02:37 CEST</span>.
 </p>
 
 
