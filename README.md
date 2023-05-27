@@ -1,13 +1,12 @@
 
 
 <p align="center">
-<img alt="loficity" width="100%" src="https://github.com/ArPimentel/ArPimentel/blob/8bafa18edcdddc7fab62e369b8b6066f2cc1eff8/assets/animation.gif"</img>
+<img alt="loficity" width="100%" src="https://github.com/ArPimentel/ArPimentel/blob/32193f82db0526d2e1eb3709e43eeec702611989/assets/animationGIF.gif"</img>
 </p>
-
 <div algin='center'>
 <a href="https://github.com/ArPimentel/animation.git">Github</a>
 <p> Hey! Nice to see you. :wave:</p>
-<p>I'm Arturo Pimentel, . I love arepas and dancing salsa</br> today isTuesday, 16 May, 16:33 CEST.</p>
+<p>I'm Arturo Pimentel, . I love arepas and dancing salsa</br> today isSaturday, 27 May, 07:55 CEST.</p>
 <p>For enquiries, reach out pimentel.arturo@gmail.com or over on <a href="https://www.linkedin.com/in/arturo-pimentel-developpeur-web/">Linkedin</a>.</p>
 <h2 align='center'><i>Just be cool!</i></h2>
 </div>
