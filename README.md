@@ -6,7 +6,7 @@
 <table>
     <tbody>
         <tr>
-            <td><p>I'm Arturo Pimentel, . I love arepas and dancing salsa</br> today isFriday, 2 June, 10:48 CEST.</p>
+            <td><p>I'm Arturo Pimentel, . I love arepas and dancing salsa</br> today isFriday, 2 June, 10:50 CEST.</p>
             <h3 align='center'><i>Just be cool!</i></h3></td>
             <td>:space_invader: &nbsp;About Me
 &nbsp;&nbsp;&nbsp;:seedling: &nbsp;Love for science and innovation.\
@@ -31,7 +31,7 @@
 <table align="center">
 <tr>Hard skills</tr>
   <tbody>
-  
+  <tr>
       <th align="center">
         <b>:computer: &nbsp;Main tech knowledge</b>
       </th>
