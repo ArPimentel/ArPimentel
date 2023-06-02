@@ -6,7 +6,7 @@
 <div algin='center'>
 <a href="https://github.com/ArPimentel/animation.git">Github</a>
 <p> Hey! Nice to see you. :wave:</p>
-<p>I'm Arturo Pimentel, . I love arepas and dancing salsa</br> today isFriday, 2 June, 09:41 CEST.</p>
+<p>I'm Arturo Pimentel, . I love arepas and dancing salsa</br> today isFriday, 2 June, 09:42 CEST.</p>
 <p>For enquiries, reach out pimentel.arturo@gmail.com or over on <a href="https://www.linkedin.com/in/arturo-pimentel-developpeur-web/">Linkedin</a>.</p>
 <h2 align='center'><i>Just be cool!</i></h2>
 </div>
@@ -32,7 +32,7 @@
 
   <summary><b>:computer: &nbsp;Main tech knowledge</b></summary>
   <br/>
-![Vuejs]https://img.shields.io/badge/<LABEL>-<Vuejs>-<red>
+![Vuejs](https://img.shields.io/badge/<LABEL>-<Vuejs>-<red>)&nbsp;
 ![Java](https://img.shields.io/badge/JAVA-007396.svg?&style=flat&logo=java&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?&style=flat&logo=css3&logoColor=white)&nbsp;
 ![Vuejs](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)&nbsp;
