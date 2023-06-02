@@ -6,7 +6,7 @@
 <div algin='center'>
 <a href="https://github.com/ArPimentel/animation.git">Github</a>
 <p> Hey! Nice to see you. :wave:</p>
-<p>I'm Arturo Pimentel, . I love arepas and dancing salsa</br> today isFriday, 2 June, 09:54 CEST.</p>
+<p>I'm Arturo Pimentel, . I love arepas and dancing salsa</br> today isFriday, 2 June, 09:55 CEST.</p>
 <p>For enquiries, reach out pimentel.arturo@gmail.com or over on <a href="https://www.linkedin.com/in/arturo-pimentel-developpeur-web/">Linkedin</a>.</p>
 <h2 align='center'><i>Just be cool!</i></h2>
 </div>
@@ -29,10 +29,10 @@
   -->
 </p>
 
-
+<div align="center">
   <summary><b>:computer: &nbsp;Main tech knowledge</b></summary>
   <br/>
-<p align="center">
+
 ![Spring](https://img.shields.io/badge/SPRING-6DB33F.svg?&style=flat&logo=spring&logoColor=white)&nbsp;
 ![LINUX](https://img.shields.io/badge/LINUX-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat&logo=html5&logoColor=white)&nbsp;
@@ -53,7 +53,8 @@
 ![Hibernate](https://img.shields.io/badge/HIBERNATE-121011.svg?&style=flat&logo=red-hat&logoColor=white)&nbsp;\
 ![GitHub](https://img.shields.io/badge/GITHUB-%23121011.svg?&style=flat&logo=github&logoColor=white)&nbsp;
 ![GitLab](https://img.shields.io/badge/GITLAB-%23181717.svg?&style=flat&logo=gitlab&logoColor=white)&nbsp;
-</p>
+</div>
+
   <summary><b>:brain: &nbsp;Other knowledge, always learning</b></summary>
   <br/>
 
