@@ -3,12 +3,25 @@
 <p align="center">
 <img alt="loficity" width="100%" src="https://github.com/ArPimentel/ArPimentel/blob/32193f82db0526d2e1eb3709e43eeec702611989/assets/animationGIF.gif"</img>
 </p>
-<div algin='center'>
-<a href="https://github.com/ArPimentel/animation.git">Github</a>
-<p> Hey! Nice to see you. :wave:</p>
-<p>I'm Arturo Pimentel, . I love arepas and dancing salsa</br> today isFriday, 2 June, 09:56 CEST.</p>
-<p>For enquiries, reach out pimentel.arturo@gmail.com or over on <a href="https://www.linkedin.com/in/arturo-pimentel-developpeur-web/">Linkedin</a>.</p>
-<h2 align='center'><i>Just be cool!</i></h2>
+<table>
+    <tbody>
+        <tr>
+            <td><p>I'm Arturo Pimentel, . I love arepas and dancing salsa</br> today isFriday, 2 June, 10:05 CEST.</p>
+            <h3 align='center'><i>Just be cool!</i></h3></td>
+            <td### :space_invader: &nbsp;About Me
+
+&nbsp;&nbsp;&nbsp;:seedling: &nbsp;Love for science and innovation.\
+&nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Passionate with problem solving and daily routines automation.\
+&nbsp;&nbsp;&nbsp;:writing_hand: &nbsp;Currently looking for an apprenticeship in java and Angular, java programming within a J2EE environment.\
+&nbsp;&nbsp;&nbsp;:hammer_and_wrench: &nbsp;Coding since 2017 with.\
+&nbsp;&nbsp;&nbsp;:family_man_woman_girl_girl: &nbsp;Living in France with my lovely wife :two_hearts: and Cléo :service_dog:.
+</td>
+        </tr>
+    </tbody>
+</table>
+<div algin="center">
+<p>I'm Arturo Pimentel, . I love arepas and dancing salsa</br> today isFriday, 2 June, 10:05 CEST.</p>
+<h3 align='center'><i>Just be cool!</i></h3>
 </div>
 
 ### :space_invader: &nbsp;About Me
