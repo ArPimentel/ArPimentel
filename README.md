@@ -6,7 +6,7 @@
 <table>
     <tbody>
         <tr>
-            <td><p>I'm Arturo Pimentel, . I love arepas and dancing salsa</br> today isFriday, 2 June, 10:17 CEST.</p>
+            <td><p>I'm Arturo Pimentel, . I love arepas and dancing salsa</br> today isFriday, 2 June, 10:20 CEST.</p>
             <h3 align='center'><i>Just be cool!</i></h3></td>
             <td>:space_invader: &nbsp;About Me
 &nbsp;&nbsp;&nbsp;:seedling: &nbsp;Love for science and innovation.\
@@ -30,9 +30,11 @@
 
 <table>
 <tbody>
+<tr>
 <th align="center">
   <b>:computer: &nbsp;Main tech knowledge</b>
-  </th><br/>
+  </th>
+  </tr>
 <td> 
 ![Spring](https://img.shields.io/badge/SPRING-6DB33F.svg?&style=flat&logo=spring&logoColor=white)&nbsp;
 ![LINUX](https://img.shields.io/badge/LINUX-FCC624?style=flat-square&logo=linux&logoColor=black)
@@ -55,8 +57,8 @@
 ![GitHub](https://img.shields.io/badge/GITHUB-%23121011.svg?&style=flat&logo=github&logoColor=white)&nbsp;
 ![GitLab](https://img.shields.io/badge/GITLAB-%23181717.svg?&style=flat&logo=gitlab&logoColor=white)&nbsp;
  </td>  
-</table>
 </tbody>
+</table>
 
 <div align="center">
   <b>:computer: &nbsp;Main tech knowledge</b>
