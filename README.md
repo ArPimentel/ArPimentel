@@ -6,7 +6,7 @@
 <table>
     <tbody>
         <tr>
-            <td><p>I'm Arturo Pimentel, . I love arepas and dancing salsa</br> today isFriday, 2 June, 13:04 CEST.</p>
+            <td><p>I'm Arturo Pimentel, . I love arepas and dancing salsa</br> today isFriday, 2 June, 13:06 CEST.</p>
             <h3 align='center'><i>Just be cool!</i></h3></td>
             <td>:space_invader: &nbsp;About Me
               &nbsp;&nbsp;&nbsp;:seedling: &nbsp;Love for science and innovation.\
@@ -28,13 +28,8 @@
   -->
 </p>
 
-.centered-table {
-  margin-left: auto;
-  margin-right: auto;
-}
 
-
-<table class=".centered-table">
+<table align="center">
   <tr>
     <th colspan="3" align="center">
       <h3>Hard skills</h3>
