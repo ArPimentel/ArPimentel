@@ -6,7 +6,7 @@
 <div algin='center'>
 <a href="https://github.com/ArPimentel/animation.git">Github</a>
 <p> Hey! Nice to see you. :wave:</p>
-<p>I'm Arturo Pimentel, . I love arepas and dancing salsa</br> today isFriday, 2 June, 09:55 CEST.</p>
+<p>I'm Arturo Pimentel, . I love arepas and dancing salsa</br> today isFriday, 2 June, 09:56 CEST.</p>
 <p>For enquiries, reach out pimentel.arturo@gmail.com or over on <a href="https://www.linkedin.com/in/arturo-pimentel-developpeur-web/">Linkedin</a>.</p>
 <h2 align='center'><i>Just be cool!</i></h2>
 </div>
@@ -30,7 +30,7 @@
 </p>
 
 <div align="center">
-  <summary><b>:computer: &nbsp;Main tech knowledge</b></summary>
+  <b>:computer: &nbsp;Main tech knowledge</b>
   <br/>
 
 ![Spring](https://img.shields.io/badge/SPRING-6DB33F.svg?&style=flat&logo=spring&logoColor=white)&nbsp;
